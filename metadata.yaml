@@ -1,0 +1,34 @@
+_repo: The-Friendly-Club-and-Other-Portraits_40898
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parsons, Francis
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '40887'
+    url: http://www.gutenberg.org/2009/agents/40887
+description: ''
+gutenberg_issued: '2012-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40898'
+  lccn: '23005680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Authors, American'
+- !lcsh 'Hartford (Conn.) -- Biography'
+- !lcc 'F001'
+tableOfContents: The friendly club -- The mystery of the Bell tavern -- The Hemans
+  of America -- Whom the gods love -- An eccentric visitor -- Who was Peter Parley?
+  -- A preacher of the gospel -- A friend of Lincoln -- Our Battle Laureate -- The
+  temple of the muses -- The friend of youth -- The Christmas party -- The fabric
+  of a dream -- The quiet life.
+title: The Friendly Club and Other Portraits
+url: http://www.gutenberg.org/ebooks/40898
